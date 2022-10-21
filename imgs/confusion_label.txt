@@ -1,0 +1,26 @@
+For each confusion matrix in the "confusion.jpg", the label of the cameras are:
+(from top to bottom in the y-axis, or from left to right in the x-axis)
+
+A01: GioneeS55
+A02: Huawei-P8
+A03: Huawei-Honor9
+A04: Huawei-P10
+A05: Huawei-Mate10Pro
+A06: Huawei-Y5
+A07: Galaxy-S7
+A09: Galaxy-Note5
+A10: Galaxy-J7
+A11: Xiaomi5
+A12: Huawei-Honor6plus
+A14: Xiaomi-5A
+A15: Xiaom-3
+A16: OnePlus-3t
+A17: AsusZenfone-2
+I01: iPhone-8
+I02: iPhone se
+I03: iPhone 7
+I04: iPad Air
+I05: iPhone 6
+I06: iPhone 5S
+
+PS. The labels are from the SIHDR paper.
