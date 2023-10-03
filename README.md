@@ -48,7 +48,6 @@ python preprocess.py
 ```bash
 python train.py
 ```
-**Note: According to the project requirements, the training code will be released later.**
 
 3) To test the model for Trace Extraction:
 ```bash
@@ -63,7 +62,18 @@ python test_OpenSetVerification.py
 
 ## Citation
 
-If you use this code/dataset for your research, please consider citing the references of the original dataset:
+If you use this code/dataset for your research, please consider citing:
+```
+@article{wu2023robust,
+  title={Robust Camera Model Identification over Online Social Network Shared Images via Multi-Scenario Learning},
+  author={H. Wu and J. Zhou and X. Zhang and J. Tian and W. Sun},
+  journal={IEEE Transactions on Information Forensics and Security},
+  year={2023},
+  publisher={IEEE}
+}
+```
+
+Please also consider citing the references of the original dataset FODB and SIHDR:
 ```
 @inproceedings{fodb2021,
   title={The Forchheim image database for camera identification in the wild},
